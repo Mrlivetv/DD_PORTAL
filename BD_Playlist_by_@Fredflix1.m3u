@@ -166,6 +166,12 @@ http://172.28.28.20:8099/ch3/index.m3u8
 http://opplextv.cyou:8080/live/773199/626227/167590.ts
 http://172.28.28.20:8099/ch5/index.m3u8
 
+
+#EXTINF:-1 group-title="Star" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfli1OXgfgZhdTp_Lj-WDACgbS2yVJ2jznxw&s",Star Movies
+http://119.156.26.155:8000/play/a06p/index.m3u8
+
+
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 https://cdn.dhakastream.com/NagorikTV/index.m3u8
 https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
